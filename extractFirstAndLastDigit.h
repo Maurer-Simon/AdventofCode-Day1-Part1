@@ -1,0 +1,1 @@
+int extractFirstAndLastDigit(const char *inputString);
