@@ -1,3 +1,0 @@
-E:/Programming/C Programming/AoC-D1/cmake-build-debug/CMakeFiles/AoC_D1.dir
-E:/Programming/C Programming/AoC-D1/cmake-build-debug/CMakeFiles/edit_cache.dir
-E:/Programming/C Programming/AoC-D1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
